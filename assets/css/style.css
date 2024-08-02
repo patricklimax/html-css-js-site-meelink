@@ -144,19 +144,19 @@ ul li {
 }
 
 .panel.img01{
-  background-image: url('assets/img/mockupphone/personaa.svg');
+  background-image: url('../img/mockupphone/personaa.svg');
 }
 .panel.img02{
-  background-image: url('assets/img/mockupphone/nutri.svg');
+  background-image: url('../img/mockupphone/nutri.svg');
 }
 .panel.img03{
-  background-image: url('assets/img/mockupphone/adv.svg');
+  background-image: url('../img/mockupphone/adv.svg');
 }
 .panel.img04{
-  background-image: url('assets/img/mockupphone/dentista.svg');
+  background-image: url('../img/mockupphone/dentista.svg');
 }
 .panel.img05{
-  background-image: url('assets/img/mockupphone/mockupGreen.svg');
+  background-image: url('../img/mockupphone/mockupGreen.svg');
 }
 
 .panel.active {
